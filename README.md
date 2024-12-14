@@ -1,4 +1,4 @@
-#  ⭐LifeQuest✔️
+<div align=center>#  ⭐LifeQuest✔️
 몰입형 환경에서 인지능력을 훈련할 수 있도록 하는 VR 기반 인지 훈련 게임입니다.
 <br>
 <br>
@@ -24,7 +24,9 @@
 <br>
 
 ## 🧚TEAM MEMBER🧚
-* 안소정(ahnSunday)
-    + 장보기 게임씬 제작
-* 김민준
-    + 휴지통 농구 게임씬, 메인씬 제작
+<div>
+⭐안소정(ahnSunday)  : 장보기 게임씬 제작
+</div>
+<div>
+⭐김민준()  : 휴지통 농구 게임씬, 메인씬 제작
+</div>
