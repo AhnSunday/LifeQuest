@@ -1,4 +1,4 @@
-<div align=center>#  ⭐LifeQuest✔️
+# ⭐LifeQuest✔️
 몰입형 환경에서 인지능력을 훈련할 수 있도록 하는 VR 기반 인지 훈련 게임입니다.
 <br>
 <br>
@@ -18,10 +18,13 @@
 <br>
 
 ## 소개영상
+<div align=center>
+
 [![스크린샷 2024-12-15 012624](https://github.com/user-attachments/assets/bd2adb3f-a462-4995-b9a1-2fd340440043)](https://youtube.com/shorts/OGhEQaf2VEU)
 
 ---
 <br>
+</div>
 
 ## 🧚TEAM MEMBER🧚
 <div>
