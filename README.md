@@ -28,7 +28,7 @@
 
 ## 🧚TEAM MEMBER🧚
 <div>
-⭐안소정(ahnSunday)  : 장보기 게임씬 제작
+⭐안소정(AhnSunday)  : 장보기 게임씬 제작
 </div>
 <div>
 ⭐김민준(hodu42)  : 휴지통 농구 게임씬, 메인씬 제작
